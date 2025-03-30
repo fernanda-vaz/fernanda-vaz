@@ -1,0 +1,12 @@
+filter:
+  - '*.json'
+  - '*.lock'
+  - '*.yml'
+  - '*.yaml'
+  - '*.md'
+  - '*.txt'
+  - '*.svg'
+  - '*.png'
+  - '*.jpg'
+  - '*.data'
+  - '*.bin'
