@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📍 Brasília - DF<br>🎓 Postgrad in Full Stack Development at FIAP<br> 🌐 <a href="https://fernanda-vaz.github.io/portfolio" target="_blank">Portfolio</a></p>
+<p align="left">📍 Brasília - DF<br>🎓 Postgrad in Full Stack Development at FIAP<br> 🌐 <a href="https://fevaz.com.br" target="_blank">Portfolio</a></p>
 
 ###
 
