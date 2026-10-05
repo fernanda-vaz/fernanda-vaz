@@ -1,116 +1,48 @@
-<h1 align="left">Hello! 👋</h1>
+# Hi, I'm Fernanda Vaz 👋
 
-###
+**Front-end Developer · React · Next.js · TypeScript · Liferay**
 
-<p align="left">My name is Fernanda Vaz and I'm a Front-end Developer from Brazil.</p>
+I'm a front-end developer based in Brasília, Brazil. At **SEA Tecnologia**, I build public-facing government portals, systems, and intranets using React, Next.js, and Liferay.
 
-###
+My work includes developing themes, portlets, and UI components, integrating React applications built with Vite into Liferay through Client Extensions, and configuring testing and client acceptance environments.
 
-<p align="left">📍 Brasília - DF<br>🎓 Postgrad in Full Stack Development at FIAP<br> 🌐 <a href="https://fevaz.com.br" target="_blank">Portfolio</a></p>
+🌐 [Portfolio](https://fevaz.com.br) · 💼 [LinkedIn](https://www.linkedin.com/in/vaz-fernanda/) · ✉️ [Email](mailto:fernandavazdev@gmail.com)
 
-###
+## 🛠️ What I work with
 
-<h2 align="left">Tech Stack</h2>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" alt="Sass" title="Sass" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" height="40" alt="Vite" title="Vite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" title="Figma" />
+</p>
 
-###
+- 💼 **Professional experience:** React, Next.js, Liferay, Vite, and Liferay Client Extensions.
+- 🎨 **Front-end skills:** JavaScript, TypeScript, HTML, CSS, Sass, and Tailwind CSS.
+- 📚 **Backend studies and academic projects:** Node.js, Express, and REST APIs.
+- 🔧 **Additional technologies and tools:** MongoDB, PostgresSQL, Docker, Git, GitHub, and Figma.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5" title="HTML5" />
-  <img width="12" />
+## 🎓 Education
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3" title="CSS3" />
-  <img width="12" />
+**Postgraduate specialization in Full Stack Development**  
+FIAP · Completed in 2025
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  height="42" alt="JavaScript" title="JavaScript" />
-  <img width="12" />
+## 🚀 Explore my work
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  height="42" alt="TypeScript" title="TypeScript" />
-  <img width="12" />
+Visit my [portfolio](https://fevaz.com.br) and [public repositories](https://github.com/fernanda-vaz?tab=repositories) to explore my projects and code.
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="42" alt="Tailwind CSS" title="Tailwind CSS" />
-  <img width="12" />
+## 📫 Get in touch
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="42" alt="SASS" title="SASS" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="React" title="React" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42" alt="Next.js" title="Next.js" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="Node.js" title="Node.js" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="Docker" title="Docker" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" alt="MongoDB" title="MongoDB" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git" title="Git" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" alt="GitHub" title="GitHub" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42" alt="Figma" title="Figma" />
-</div>
-
-###
-
-<h2 align="left">Academic Education</h2>
-
-###
-
-<div>
-  <img src="https://play-lh.googleusercontent.com/S70rI7VrwLic7_p-ax7iAOOopQhcPCzmqyLe5RLJmApTpkgTRaCwWsTNN1Uv1t_t3Pp5=w240-h480-rw" alt="FIAP Logo"
-  min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;">
-  <br/>
- 
-  **Postgraduate - Full Stack Development** \
-  [**FIAP**](https://www.fiap.com.br/) • In Progress
-  <br/> 
-</div>
-
-###
-
-<h2 align="left">Github</h2>
-
-###
-
-<div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernanda-vaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true&order=2" height="300" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=fernanda-vaz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=fernanda-vaz&locale=en&mode=daily&theme=nightowl&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fernanda-vaz&radius=16&theme=react&area=true&order=5" height="200" alt="activity-graph graph"  />
-</div>
-
-###
-
-<h2 align="left">Contact me</h2>
-
-###
-
-<div align="left">
-  <a href="mailto:fernandavazdev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-     
-  <a href="https://www.linkedin.com/in/vaz-fernanda" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-
-  <a href="https://wa.me/+5561985888005" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
-  </a>
-
-  <a href="https://discord.com/users/.fernandavaz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-
-
-###
-  </a>
-
-</div>
-
+- ✉️ **Email:** [fernandavazdev@gmail.com](mailto:fernandavazdev@gmail.com)
+- 💼 **LinkedIn:** [Fernanda Vaz](https://www.linkedin.com/in/vaz-fernanda/)
