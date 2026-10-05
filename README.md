@@ -21,17 +21,18 @@ My work includes developing themes, portlets, and UI components, integrating Rea
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" alt="Sass" title="Sass" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" height="40" alt="Vite" title="Vite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" title="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" title="GitHub" />
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40" alt="GitHub" title="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" title="Figma" />
 </p>
 
 - 💼 **Professional experience:** React, Next.js, Liferay, Vite, and Liferay Client Extensions.
 - 🎨 **Front-end skills:** JavaScript, TypeScript, HTML, CSS, Sass, and Tailwind CSS.
 - 📚 **Backend studies and academic projects:** Node.js, Express, and REST APIs.
-- 🔧 **Additional technologies and tools:** MongoDB, PostgresSQL, Docker, Git, GitHub, and Figma.
+- 🔧 **Additional technologies and tools:** PostgreSQL, SQL, MongoDB, Docker, Git, GitHub, and Figma.
 
 ## 🎓 Education
 
